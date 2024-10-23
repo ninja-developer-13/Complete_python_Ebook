@@ -1,5 +1,4 @@
 # Complete Python eBook
-## Title: Complete Python eBook
 
 ## Overview: 
 The "Complete Python eBook" is a comprehensive resource designed for both beginners and experienced programmers looking to master Python programming. This eBook covers everything from the fundamentals of Python syntax to advanced topics like data science, web development, and machine learning.
