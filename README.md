@@ -38,3 +38,6 @@ Professionals seeking to enhance their skills for career advancement.
 
 
 The "Complete Python eBook" serves as an essential guide for anyone interested in learning Python. With clear explanations, practical examples, and hands-on projects, readers will gain the skills and confidence needed to succeed in programming with Python. Whether you're looking to start a new career or enhance your current skill set, this eBook is a valuable addition to your learning resources.
+
+https://sleepy-coder.blogspot.com/
+
