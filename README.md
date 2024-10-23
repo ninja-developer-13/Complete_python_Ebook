@@ -1,4 +1,4 @@
-# Complete Python eBook Description
+# Complete Python eBook
 ## Title: Complete Python eBook
 
 ## Overview: 
